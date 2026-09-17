@@ -1,8 +1,8 @@
-# 👩🏻‍💻 JUJU
+# 👩🏻‍💻 Juliana Reis
 
-**`Desenvolvedor Aprendiz`**
+**`Desenvolvedora Aprendiz`**
 
-Olá! Me chamo Thiago Viana Ferreira, tenho 22 anos e sou natural de Suzano - SP.
+Olá! Me chamo Juliana Reis Nascimento, tenho 23 anos e sou natural de Suzano - SP.
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UniPiaget.
 
 💡 Tenho interesse em ampliar meus conhecimentos em programação, desenvolvendo minhas habilidades em Java, Python, C# e JavaScript/TypeScript, com foco em lógica, resolução de problemas e desenvolvimento de aplicações.

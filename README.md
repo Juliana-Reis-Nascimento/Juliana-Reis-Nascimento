@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩🏻‍💻 JUJU
 
-<!--
-**Juliana-Reis-Nascimento/Juliana-Reis-Nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Aprendiz`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Thiago Viana Ferreira, tenho 22 anos e sou natural de Suzano - SP.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UniPiaget.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Tenho interesse em ampliar meus conhecimentos em programação, desenvolvendo minhas habilidades em Java, Python, C# e JavaScript/TypeScript, com foco em lógica, resolução de problemas e desenvolvimento de aplicações.
+
+📚 Busco constantemente evoluir meus conhecimentos em programação, boas práticas Git e diferentes tecnologias, sempre colocando o aprendizado em prática por meio de projetos.
+
+🚀 Interesses:
+
+Cibersegurança
+
+🔐 Tenho também interesse em ingressar futuramente na área de Cibersegurança, buscando compreender cada vez mais sobre segurança de sistemas, redes, vulnerabilidades e proteção de informações.
+
+📌 Em constante evolução, buscando adquirir experiência prática, desenvolver novas habilidades e construir uma carreira sólida na área de tecnologia.
+
+<h1 align="center">Salve👋Segue as liguagens em que trabalho</h1>
+
